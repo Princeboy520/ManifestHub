@@ -1,0 +1,42 @@
+{
+    "appid": "2277560",
+    "type": "Game",
+    "name": "WUCHANG: Fallen Feathers",
+    "schinese_name": "明末：渊虚之羽",
+    "isfreeapp": "0",
+    "change_number": "19308272",
+    "update_time": "2025-05-17 04:15:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2277561": {
+            "manifests": {
+                "public": {
+                    "gid": "1428935050496192033",
+                    "size": "48183743633",
+                    "download": "22211714512"
+                }
+            },
+            "decryptionkey": "6db3af8b5be3def24c758a005feb7fa0f65750716392328e2f14321340adb273"
+        },
+        "branches": {
+            "public": {
+                "buildid": "19349081",
+                "timeupdated": "1753410643"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
