@@ -35,5 +35,8 @@ addappid(3552810)
 addappid(3627630)
 addappid(3636310)
 addappid(3759070)
+addappid(4110930) 
+addappid(3978160) 
 --setAppticket("bWFuaWZlc3QgJiBsdWEgcHJvdmlkZWQgYnk6IGh0dHBzOi8vd3d3LnN0ZWFtdG9vbHMubmV0")
+
 --setAppticket("aXQncy5nZW5lcmF0ZWQuYnkuY2FpZ2FtZXIuY29tLmRhb3lvbm9yLmRhb21haS5zaW1h")
